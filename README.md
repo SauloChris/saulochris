@@ -1,4 +1,4 @@
-### Hello there! 
+## Hello there! 
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Javascript, Phython, HTML, CSS
@@ -21,11 +21,7 @@
   <img align="center" alt="Saulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Saulo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
-  
-  
 </div>
-  
-##
   
 <div> 
   <div align="center" valign="top"><br>
