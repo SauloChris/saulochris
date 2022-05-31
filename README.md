@@ -1,7 +1,7 @@
 ## Hello there! 
 
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Javascript, Phython, HTML, CSS
+- 🌱 I’m currently learning Javascript, Python, HTML, CSS
 - 📖 I'm curious to learn React, Kubernets, PHP, MySQL, Terraform, Arduino
 - 📫 How to reach me: saullochristian@gmail.com
 - ⚡ Fun fact: I'm best friend to the fastest man alive
