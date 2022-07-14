@@ -1,6 +1,6 @@
 ## Hello there! 
 
-- 🔭 I’m currently working on Front-End
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning Javascript, Python, HTML, CSS
 - 📖 I'm curious to learn React, Kubernets, PHP, MySQL, Terraform, Arduino
 - 📫 How to reach me: saullochristian@gmail.com
